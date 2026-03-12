@@ -27,3 +27,14 @@
         }
     }
 }
+/*
+ * nazwa funkcji: checkIfLogged
+ * opis funkcji funkcja sprawdza czy email i hasło jest wypełnione i na tej podstawie pokazuje lub ukrywa przycisk logowania
+ * parametry : sender - obiekt który wywołał funkcję, e - argumenty zdarzenia
+ * zwracany typ i opis brak
+ * 
+ * nawa funkcji onSend
+ * opis funkcji : funkcja wyświetla alert z informacją o zalogowaniu się
+ * parametry : sender - obiekt który wywołał funkcję, e - argumenty zdarzenia
+ * zwracany typ i opis brak
+ */
