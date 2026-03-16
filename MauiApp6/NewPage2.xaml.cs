@@ -44,3 +44,16 @@ public partial class NewPage2 : ContentPage
         }
     }
 }
+/*
+ * Nazwa funkcji : setPriorityPicker
+ * opis funkcji : Funkcja sprawdza jaki jest wybrany temat i na tej podstawie ustala dostępne priorytety do wyboru
+ * parametry : sender - obiekt który wywołał funkcję, e - argumenty zdarzenia
+ * zwracany typ i opis brak
+ * 
+ * nazwa funkcji : checkIfCorrectAndSend
+ * opis funckji : funkcja sprawdza czy pola są wypełnione oraz wypisuje je w alrecie, jeśli priorytet jest dostępny to również go wypisuje
+ *  parametry : sender - obiekt który wywołał funkcję, e - argumenty zdarzenia
+ *  zwracany typ i opis brak
+ * 
+ * 
+ */

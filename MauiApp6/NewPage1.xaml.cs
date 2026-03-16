@@ -23,3 +23,18 @@ public partial class NewPage1 : ContentPage
     }
 
 }
+/*
+ * 
+ * nazwa funckji ischeckBoxChecked
+ * opis funkcji : funkcja sprawdza czy checkbox jest zaznaczony, jeśli tak to pokazuje przycisk rejestracji, jeśli nie to go ukrywa
+ * parametry : sender - obiekt który wywołał funkcję, e - argumenty zdarzenia
+ * zwracany typ i opis brak
+ * 
+ * nazwa funkcji: register
+ * opis funkcji : funkcja wyświetla alert z informacją o rejestracji
+ * parametry : sender - obiekt który wywołał funkcję, e - argumenty zdarzenia
+ * zwracany typ i opis brak
+ * 
+ * 
+ */
+ 
